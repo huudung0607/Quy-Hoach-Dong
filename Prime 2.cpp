@@ -1,3 +1,4 @@
+Cho 2 số nguyên L, R, hãy đếm xem trong đoạn từ L tới R có bao nhiêu số nguyên tố.
 
 #include <iostream>
 #include <algorithm>
