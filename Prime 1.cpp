@@ -1,4 +1,4 @@
-
+Cho số nguyên dương N, hãy đếm xem trong đoạn từ 0 tới N có bao nhiêu số nguyên tố.
 #include <iostream>
 #include <algorithm>
 #include <vector>
